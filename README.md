@@ -54,8 +54,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ClipSpark.git
-cd ClipSpark
+git clone https://github.com/QadeerDev/ClipSpark-Turn-Long-Videos-into-Viral-Ready-Clips-Using-AI.git
+cd ClipSpark-Turn-Long-Videos-into-Viral-Ready-Clips-Using-AI
 
 # Create and activate virtual environment
 python -m venv venv
@@ -299,7 +299,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 <div align="center">
 
-**Made with ❤️ by the ClipSpark Team**
+**Made with ❤️ by the QadeerDev**
 
 [⭐ Star this repo](https://github.com/your-username/ClipSpark) • [🐛 Report Bug](https://github.com/your-username/ClipSpark/issues) • [💡 Request Feature](https://github.com/your-username/ClipSpark/issues/new)
 
