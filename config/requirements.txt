@@ -1,0 +1,9 @@
+opencv-python
+scenedetect
+ultralytics
+tqdm
+fastapi
+uvicorn
+celery
+redis
+python-multipart

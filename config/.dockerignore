@@ -1,0 +1,27 @@
+# Ignore virtual environment (CRITICAL)
+virenv/
+venv/
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore git
+.git/
+.gitignore
+
+# Ignore outputs and temp data
+output/
+temp_data/
+__MACOSX/
+.DS_Store
+
+# Ignore test videos (keep image small)
+test_videos/
+notebooks/
+
+# Ignore environment variables
+.env
